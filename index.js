@@ -41,3 +41,4 @@ let daysToMoon = hoursToMoon / 24;
 
 // Code your solution to exercise 5 here:
 console.log(shuttleName + " will take " + daysToMoon + " days to reach the Moon.")
+
